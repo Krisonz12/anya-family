@@ -1,5 +1,4 @@
-# SmackChat (smackchat)
-
+# Anya Family Wall 
 A Quasar Framework app
 
 ## Install the dependencies
